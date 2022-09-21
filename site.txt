@@ -1,1 +1,0 @@
-added site dot txt to gh-pages branch, and a url is assigned to it so i can host my website github pages
